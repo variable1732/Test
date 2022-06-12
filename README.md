@@ -16,6 +16,7 @@
 
 
 ## Installation
+Download the files
 
 ## Building
 - Clone this repository
