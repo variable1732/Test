@@ -7,7 +7,9 @@
 ![GitHub lines of code](https://tokei.rs/b1/github/MeteorDevelopment/meteor-client)
 ![GitHub contributors](https://img.shields.io/github/contributors/MeteorDevelopment/meteor-client)
 ![CircleCI](https://circleci.com/gh/MeteorDevelopment/meteor-client/tree/master.svg?style=svg)
-[![GitHub issues](https://img.shields.io/github/issues/OskHe/Test.git)](https://github.com/OskHe/Test.git/issues)
+![GitHub issues](https://img.shields.io/github/issues/OskHe/Test.git)
+
+(https://github.com/OskHe/Test.git/issues)
 
 ## Installation
 
